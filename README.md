@@ -1,2 +1,2 @@
-# sgi2-autostore-knowhow
+# このリポジトリについて
 - AutoStore開発に関するノウハウをWikiにまとめます
